@@ -1,3 +1,5 @@
+<img width="1080" height="604" alt="680b54b318ad06657ccc40cb1764033a" src="https://github.com/user-attachments/assets/120b3bd4-0584-4682-b7ce-dec2a218aa3b" />
+
 # 双轮差速循迹小车 · 完整开源实现
 
 > 一台自己写控制律、自己标定电机、自己调参数的循迹小车。
