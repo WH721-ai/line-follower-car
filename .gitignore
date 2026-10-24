@@ -1,0 +1,27 @@
+# ---- PlatformIO ----
+.pio/
+.pioenvs/
+.piolibdeps/
+.vscode/
+build_out.txt
+upload_out.txt
+_build.txt
+
+# ---- Python ----
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+
+# ---- 日志 / 抓包 / 临时产物 ----
+# 运行时导出的逐帧记录（体积大、每次跑都不一样，不入库）
+*.csv
+*.bin
+*.log
+_*.txt
+!docs/examples/*.csv
+
+# ---- 系统 ----
+.DS_Store
+Thumbs.db
+desktop.ini
